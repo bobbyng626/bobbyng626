@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bobbyng626
-- 👀 I’m interested in RUST
-- 🌱 I’m currently learning RUST
-- 💞️ I’m looking to collaborate on any RUST project
+- 👀 I’m interested in any technolgy challenge
+- 🌱 Plant me with any challenge you got
+- 💞️ And I will return answer with love to you
 - 📫 HERE -> bobbyng0920@gmail.com
 
 <!---
